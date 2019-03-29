@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prodii Template Dublin\n"
+"POT-Creation-Date: 2015-11-08 14:43-0200\n"
+"PO-Revision-Date: 2015-12-30 15:57-0200\n"
+"Last-Translator: Ralph Rezende Larsen\n"
+"Language-Team: Team Prodii\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_BR\n"
+
+msgid "Native"
+msgstr "Nativo"
+
+msgid "Native and fluent"
+msgstr "Nativo e fluente"
+
+msgid "Business"
+msgstr "O negócio"
+
+msgid "TEAM MEMBERS"
+msgstr "MEMBROS DA EQUIPE"
+
+msgid "Business meeting"
+msgstr "Reunião de negócios"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Phone call"
+msgstr "Chamada telefónica"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Skype conversation"
+msgstr "Conversa Skype"
+
+msgid "Mail"
+msgstr "Correio"
+
+msgid "Mail; Read and Write"
+msgstr "Enviar; Leia e escreva"
+
+msgid "Mastering"
+msgstr "Mestrado"
+
+msgid "Expert"
+msgstr "Especialista"
+
+msgid "Experienced"
+msgstr "Esperiencia"
+
+msgid "Knowledge"
+msgstr "Conhecimento"
+
+msgid "OUR 6 TOP SKILLS"
+msgstr "NOSSO 6 PRINCIPAIS HABILIDADES"
+
+msgid "OUR INDUSTRIAL EXPERIENCE"
+msgstr "NOSSA EXPERIÊNCIA INDUSTRIAL"
+
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] "Ano"
+msgstr[1] "Anos"
+
+msgid "WE HAVE %d TEAM"
+msgid_plural "WE HAVE %d TEAMS"
+msgstr[0] "TEMOS %d EQUIPE"
+msgstr[1] "Temos %d EQUIPAS"
+
+msgid "in our company and %d employee"
+msgid_plural "in our company and more than %d employees"
+msgstr[0] "em nossa empresa e %d empregado"
+msgstr[1] "em nossa empresa e mais de %d funcionários"
+
+msgid "%d language"
+msgid_plural "%d different languages"
+msgstr[0] "%d idioma"
+msgstr[1] "%d idiomas diferentes"
+
+msgid "WE ARE %d PERSON"
+msgid_plural "WE ARE %d PEOPLE"
+msgstr[0] "SOMOS %d PESSOA"
+msgstr[1] "SOMOS %d PESSOAS"
+
+msgid "in our team from %d country"
+msgid_plural "in our team from %d different countries"
+msgstr[0] "em nossa equipe a partir de %d país"
+msgstr[1] "em nossa equipe a partir de %d países diferentes"
+
+msgid "from %d country"
+msgid_plural "from %d different countries"
+msgstr[0] "a partir de %d país"
+msgstr[1] "de %d países diferentes"
+
+msgid "View more"
+msgstr "Veja mais"
+
+msgid "View less"
+msgstr "Veja menos"
+
+msgid "my comfort zones"
+msgstr "minhas zonas de conforto"
+
+msgid "Local time GMT"
+msgstr "Hora local GMT"
+
+msgid "WE HAVE"
+msgstr "NÓS TEMOS"
+
+msgid "TEAMS"
+msgstr "EQUIPES"
+
+msgid "TEAM"
+msgstr "EQUIPE"
+
+msgid "OUR TEAMS"
+msgstr "NOSSAS EQUIPES"
+
+msgid "OUR EDUCATIONS"
+msgstr "NOSSA EDUCAÇOES"
+
+msgid "ABOUT ME"
+msgstr "SOBRE MIM"
+
+msgid "I SPEAK"
+msgstr "EU FALO"
+
+msgid "EXPERTISE"
+msgstr "PERÍCIA"
+
+msgid "my 6 top skills"
+msgstr "meus 6 principais habilidades"
+
+msgid "INDUSTRIAL EXPERIENCE"
+msgstr "A EXPERIÊNCIA INDUSTRIAL"
+
+msgid "EDUCATION"
+msgstr "EDUCAÇÃO"
+
+msgid "in our company and more than"
+msgstr "em nossa empresa e mais de"
+
+msgid "employees"
+msgstr "funcionários"
+
+msgid "employee"
+msgstr "empregado"
+
+msgid "AND WE SPEAK"
+msgstr "E NÓS FALAMOS"

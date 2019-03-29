@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prodii Template Dublin\n"
+"POT-Creation-Date: 2015-11-08 14:43-0200\n"
+"PO-Revision-Date: 2015-12-30 15:57-0200\n"
+"Last-Translator: Ralph Rezende Larsen\n"
+"Language-Team: Team Prodii\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ar_SA\n"
+
+msgid "Native"
+msgstr "ابن البلد"
+
+msgid "Native and fluent"
+msgstr "مواليد و طلاقة"
+
+msgid "Business"
+msgstr "اعمال"
+
+msgid "TEAM MEMBERS"
+msgstr "أعضاء الفريق"
+
+msgid "Business meeting"
+msgstr "اجتماع عمل"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Phone call"
+msgstr "اتصال هاتفي"
+
+msgid "Skype"
+msgstr "سكايب"
+
+msgid "Skype conversation"
+msgstr "سكايب محادثة"
+
+msgid "Mail"
+msgstr "بريد"
+
+msgid "Mail; Read and Write"
+msgstr "بريد؛ اقرا و اكتب"
+
+msgid "Mastering"
+msgstr "اتقان"
+
+msgid "Expert"
+msgstr "خبير"
+
+msgid "Experienced"
+msgstr "ذوي الخبرة"
+
+msgid "Knowledge"
+msgstr "معرفة"
+
+msgid "OUR 6 TOP SKILLS"
+msgstr "6 لدينا المهارات العليا"
+
+msgid "OUR INDUSTRIAL EXPERIENCE"
+msgstr "لدينا الخبرة الصناعية"
+
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] "سنة"
+msgstr[1] "سنوات"
+
+msgid "WE HAVE %d TEAM"
+msgid_plural "WE HAVE %d TEAMS"
+msgstr[0] "فري %d لدينا "
+msgstr[1] "لدين %d فرق"
+
+msgid "in our company and %d employee"
+msgid_plural "in our company and more than %d employees"
+msgstr[0] "في شر %d نا و موظف"
+msgstr[1] "%d في شركتنا ، وأكثر من موظفين"
+
+msgid "%d language"
+msgid_plural "%d different languages"
+msgstr[0] "اللغة %d"
+msgstr[1] "لغات مختلفة %d"
+
+msgid "WE ARE %d PERSON"
+msgid_plural "WE ARE %d PEOPLE"
+msgstr[0] "نحن %d شخص"
+msgstr[1] "أشخاص %d نحن"
+
+msgid "in our team from %d country"
+msgid_plural "in our team from %d different countries"
+msgstr[0] "البلد %d في فريقنا من"
+msgstr[1] "دول مختلفة %d في فريقنا من "
+
+msgid "from %d country"
+msgid_plural "from %d different countries"
+msgstr[0] "البلد %d من"
+msgstr[1] "دول مختلفة %d من"
+
+msgid "View more"
+msgstr "عرض المزيد"
+
+msgid "View less"
+msgstr "عرض أقل"
+
+msgid "my comfort zones"
+msgstr "مناطق تعزيتي"
+
+msgid "Local time GMT"
+msgstr "بالتوقيت المحلي GMT"
+
+msgid "WE HAVE"
+msgstr "لدينا"
+
+msgid "TEAMS"
+msgstr "فرق"
+
+msgid "TEAM"
+msgstr "الفريق"
+
+msgid "OUR TEAMS"
+msgstr "فرقنا"
+
+msgid "OUR EDUCATIONS"
+msgstr "نوسا تعليم"
+
+msgid "ABOUT ME"
+msgstr "ْعَنِّي"
+
+msgid "I SPEAK"
+msgstr "أتكلم"
+
+msgid "EXPERTISE"
+msgstr "الخبرة"
+
+msgid "my 6 top skills"
+msgstr "بلدي 6 أعلى المهارات"
+
+msgid "INDUSTRIAL EXPERIENCE"
+msgstr "الخبرة الصناعية"
+
+msgid "EDUCATION"
+msgstr "التعليم"
+
+msgid "in our company and more than"
+msgstr "في شركتنا، وأكثر من"
+
+msgid "employees"
+msgstr "الموظفين"
+
+msgid "employee"
+msgstr "عامل"
+
+msgid "AND WE SPEAK"
+msgstr "ونحن نتكلم"
