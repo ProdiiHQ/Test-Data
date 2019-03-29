@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.6\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: ar_SA\n"
+"Language: ar_SA\n vvvvvvvvvvvvvvvvvvvvvvvvvv"
 
 msgid "Native"
 msgstr "ابن البلد"
